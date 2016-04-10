@@ -1,0 +1,71 @@
+
+body {
+
+  background-color:white;
+  background-repeat:no-repeat;
+  background-position: center;
+  background-size:cover;
+  max-width: 100%;
+  height:auto;
+}
+
+
+/*------ Heading---------*/
+.page-heading {
+   
+    text-align:center;
+    padding:5px;
+
+}
+
+header.index-header{
+     background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+
+}
+.quote {
+  font-family: 'Cardo', serif;
+  font-size: 1.5em;
+  width: 600px;
+  height: auto;
+  margin: 0 auto;
+  background-color: #efefef;
+  padding: 20px;
+  background-color: rgba(255,255,255,0.9);;
+  border-radius: 20px;
+  color: #000;
+  box-shadow: -10px 10px 20px rgba(100,100,100,.8);;
+}
+
+.author {
+  font-style: italic;
+}
+
+.button {
+  font-family: 'Tangerine', serif;
+  height: 50px;
+  width: 150px;
+  margin: 20px auto;
+  color: rgba(0,0,0,1);
+  background-color: rgba(160,200,160,.8);;
+  text-align: center; 
+  font-size: 26px;
+  border-radius: 15px;
+  box-shadow: -5px 5px 10px rgba(100,100,100,.8);;
+}
+
+a {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-family: sans-serif;
+  font-size: 12pt;
+}
+.tweet{
+  margin-top:30px;
+}
+.imgFlower {
+  padding-top:50px;
+}

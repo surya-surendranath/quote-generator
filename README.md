@@ -1,2 +1,1 @@
-# quote-generator
-quote generator
+Me and Jenny L roa are doing Quote Generator :)

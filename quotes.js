@@ -74,10 +74,8 @@ for(i=0;i<imgArray.length - count;i++){
  $('.imgFlower').attr('src',imgArray[i].src);
    if(count===24){
     count=count-24;
-   }
-     
+   }   
 }
-
   
 }
 
@@ -88,14 +86,12 @@ for(i=0;i<imgArray.length - count;i++){
   window.open(tweetLink,'_blank');
 }
 
-  
 $(".button").on( "click", function() {
 
 
     generate();
     flowers();
 });  
-
 
 $(".tweet").on( "click", function() {
     twitter();

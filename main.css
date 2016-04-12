@@ -58,7 +58,7 @@ header.index-header{
   box-shadow: -10px 10px 20px rgba(100,100,100,.8);;}
 }
 
-@media only screen and (max-width:340px)
+@media only screen and (max-width:280px)
 {
 .button {
   font-family: 'Tangerine', serif;
@@ -83,7 +83,7 @@ header.index-header{
 
   float:center;
   font-size: 20px;
-  width: 400px;
+  width: 200px;
   height: auto;
   margin: 0 auto;
   background-color: #efefef;
@@ -136,7 +136,7 @@ header.index-header{
 
 .tweet{
   margin-top:30px;
-margin-left: -100px;
+margin-left: -300px;
 }
   
 }
@@ -145,7 +145,7 @@ margin-left: -100px;
 
 .tweet{
   margin-top:30px;
-margin-left: -100px;
+margin-left: -300px;
 }
   
 }
